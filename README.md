@@ -51,7 +51,8 @@ plt.show()
 
 ## Output:
 ![best fit line](sam.png)
-Screenshot (116)
+![ml](https://github.com/SAKTHIPRIYASATHISH/Find-the-best-fit-line-using-Least-Squares-Method/assets/119104282/8f0decb7-a85f-4f9b-957d-1a85f45cb5e6)
+
 
 
 ## Result:
